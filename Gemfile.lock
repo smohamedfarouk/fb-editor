@@ -1,5 +1,7 @@
-PATH
-  remote: /Users/app/Desktop/projects/uk-project-1/fb-metadata-presenter
+GIT
+  remote: https://github.com/smohamedfarouk/fb-metadata-presenter.git
+  revision: e4940acf0b6cc8b6ab72b54cb52bd2a0c05a11f3
+  branch: add-dropdown-button
   specs:
     metadata_presenter (3.4.4)
       govspeak (~> 7.1)
