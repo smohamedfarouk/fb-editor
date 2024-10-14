@@ -299,7 +299,7 @@ class Expander {
   }
 
   #isInput($activator) {
-   return $activator.is('input[type="checkbox"]') || $activator.is('input[type="radio"]')
+   return $activator.is('input[type="checkbox"]') || $activator.is('input[type="radio"]') || $activator.is('input[type="dropdown2"]')
   }
 
 }
